@@ -1,1 +1,4 @@
 Les prérequies pour le versioning
+Fusion 1
+Fusion 2
+Fusion 3
